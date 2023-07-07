@@ -1,0 +1,26 @@
+body{/* Abrindo body */
+    background-color: #487172;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+}/* fechando body */
+
+/* criando uma classe exemplo */
+
+.titulo{
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #deb887;
+    text-align: center; /* centralizando o texto do titulo*/
+}
+
+.sexta{
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: chocolate;
+    background-color: #274346;
+}
+
+.madrugada{
+    text-align: justify;
+}
